@@ -1,2 +1,3 @@
 # Pull Request Heros
-Jeff Hollister
+- Jeff Hollister
+- Rhody R. Stats
